@@ -1,6 +1,6 @@
-# Vaprobash - Development BOX PHP 7
+# Vaprobash
 
-Based on Fideloper project
+Development BOX PHP 7 project is a fork from Fideloper project.
 
 **Va**&#x200B;grant **Pro**&#x200B;visioning **Bash** Scripts
 
