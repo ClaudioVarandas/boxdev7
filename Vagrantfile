@@ -13,7 +13,7 @@ github_pat          = ""
 
 # Server Configuration
 
-hostname        = "vaprobash.dev"
+hostname        = "boxdev7.dev"
 
 # Set a local private network IP address.
 # See http://en.wikipedia.org/wiki/Private_network for explanation
@@ -92,7 +92,7 @@ Vagrant.configure("2") do |config|
   # Set server to Ubuntu 14.04
   config.vm.box = "ubuntu/trusty64"
 
-  config.vm.define "Vaprobash" do |vapro|
+  config.vm.define "Boxdev7" do |vapro|
   end
 
   if Vagrant.has_plugin?("vagrant-hostmanager")
